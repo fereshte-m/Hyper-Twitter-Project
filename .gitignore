@@ -1,0 +1,4 @@
+*.DS_Store
+*.pyc
+twitter_keys.py
+.idea
