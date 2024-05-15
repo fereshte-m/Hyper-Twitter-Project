@@ -59,8 +59,6 @@ This project highlights the influence of social media on societal and political 
 - Amirhosein
 - Fereshteh
 
-## Link to GitHub Project
-[Hyper-Twitter-Project](#)
 
 ---
 
